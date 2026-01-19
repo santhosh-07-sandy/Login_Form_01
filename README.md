@@ -31,6 +31,4 @@ A modern, responsive, and aesthetically pleasing Login and Registration interfac
 - `style.css`: All styling, animations, and responsive rules.
 - `script.js`: Logic to toggle the `.active` class on the container for switching views.
 
-## Preview
 
-*(Add screenshots here)*
